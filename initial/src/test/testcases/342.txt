@@ -1,0 +1,12 @@
+void main (int argv[]) {
+            do{
+                i = i + 1;
+                float b[9], c;
+            }while ( argv[i]);
+            do{
+                i = i + 1;
+            }
+            {
+                j = j + 1;
+            }while(forfun);
+        }

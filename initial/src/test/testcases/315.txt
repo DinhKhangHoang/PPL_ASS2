@@ -1,0 +1,13 @@
+int[] main (int argv[]) {
+            a=b=c;
+            {
+                
+                {
+                    boolean check;
+                }
+                {
+                    int b,c;
+                }
+            }
+            return;
+        }

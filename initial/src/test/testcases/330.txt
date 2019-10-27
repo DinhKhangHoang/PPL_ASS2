@@ -1,0 +1,8 @@
+void main (int argv[]) {
+            if (true){
+                a+b;
+                c+d;
+            }
+            else
+                x-y;
+        }

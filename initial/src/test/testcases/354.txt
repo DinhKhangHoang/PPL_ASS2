@@ -1,0 +1,11 @@
+void main () {
+            int term;
+            return;
+        }
+        boolean isPrime(){
+            return false;
+            string chr;
+        }
+        float maximum;
+        float minimum, average[2];
+        

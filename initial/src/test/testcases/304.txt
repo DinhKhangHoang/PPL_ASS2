@@ -1,0 +1,4 @@
+int main () {
+            getIntLn();
+            int a, b[6];
+        }

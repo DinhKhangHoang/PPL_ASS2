@@ -1,0 +1,1 @@
+Program([FuncDecl(Id("main"),[],VoidType(),Block([BinaryOp("=",Id("x"),BinaryOp("+",BinaryOp("+",Id("a"),BinaryOp("=",Id("b"),CallExpr(Id("f"),[]))),BinaryOp("*",BinaryOp("=",Id("c"),CallExpr(Id("g"),[])),IntLiteral(7))))]))])

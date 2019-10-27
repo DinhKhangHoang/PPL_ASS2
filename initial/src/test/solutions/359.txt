@@ -1,0 +1,1 @@
+Program([FuncDecl(Id("main"),[],VoidType(),Block([VarDecl("term",IntType()),Dowhile([Block([VarDecl("somesome",IntType())])],BinaryOp("<",Id("a"),Id("n"))),Return()])),VarDecl("minimum",FloatType()),VarDecl("average",ArrayType(2,FloatType()))])

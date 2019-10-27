@@ -1,0 +1,10 @@
+void main (int argv[]) {
+            return;
+            
+        }
+        boolean isPrime(float n){
+            return false;
+        }
+        string[] concate(string a[], string b[]){
+            return a+b;
+        }

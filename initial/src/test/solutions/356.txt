@@ -1,0 +1,1 @@
+Program([FuncDecl(Id("main"),[],VoidType(),Block([VarDecl("term",IntType()),Return()])),FuncDecl(Id("isPrime"),[],BoolType(),Block([Block([VarDecl("check",BoolType()),Block([VarDecl("chr",StringType())])])])),VarDecl("maximum",FloatType()),VarDecl("minimum",FloatType()),VarDecl("average",ArrayType(2,FloatType()))])

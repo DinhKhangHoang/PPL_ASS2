@@ -1,0 +1,1 @@
+Program([FuncDecl(Id("main"),[VarDecl("argv",ArrayPointerType(IntType()))],ArrayPointerType(IntType()),Block([BinaryOp("=",Id("a"),BinaryOp("=",Id("b"),Id("c"))),Block([VarDecl("b",IntType()),VarDecl("c",IntType()),Block([VarDecl("check",BoolType())])]),Return()]))])

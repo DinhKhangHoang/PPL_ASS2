@@ -1,0 +1,9 @@
+void main (int argv[]) {
+            string str;
+            if (true){
+                boolean variable[100];
+                c+d;
+            }
+            else
+                x-y;
+        }

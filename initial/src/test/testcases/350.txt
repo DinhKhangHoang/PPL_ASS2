@@ -1,0 +1,7 @@
+void main (int argv[]) {
+            return;
+            
+        }
+        boolean isPrime(float n){
+            return false;
+        }

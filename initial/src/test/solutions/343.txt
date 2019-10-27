@@ -1,0 +1,1 @@
+Program([FuncDecl(Id("main"),[VarDecl("argv",ArrayPointerType(IntType()))],VoidType(),Block([VarDecl("char",StringType()),Dowhile([Block([BinaryOp("=",Id("i"),BinaryOp("+",Id("i"),IntLiteral(1)))]),Block([BinaryOp("=",Id("j"),BinaryOp("+",Id("j"),IntLiteral(1)))])],Id("forfun"))]))])

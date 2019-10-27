@@ -1,0 +1,7 @@
+void main (int argv[]) {
+            do{
+                do{
+                    i = i + 1;
+                }while(true);
+            }while(false);
+        }

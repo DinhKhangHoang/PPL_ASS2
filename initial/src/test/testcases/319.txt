@@ -1,0 +1,7 @@
+void main (int argv[]) {
+            a=b=c;
+            {
+                float d,e,f[8];
+            }
+            return;
+        }

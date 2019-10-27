@@ -1,0 +1,9 @@
+void main () {
+            int term;
+            do{
+                int somesome;
+            }while( a <n);
+            return;
+        }
+        float minimum, average[2];
+        

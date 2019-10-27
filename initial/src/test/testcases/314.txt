@@ -1,0 +1,10 @@
+int[] main (int argv[]) {
+            a=b=c;
+            {
+                int b,c;
+                {
+                    boolean check;
+                }
+            }
+            return;
+        }

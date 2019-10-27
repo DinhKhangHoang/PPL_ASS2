@@ -1,0 +1,7 @@
+void main (int argv[]) {
+            a=b=c;
+            {
+                string d,e,f[8];
+            }
+            return;
+        }

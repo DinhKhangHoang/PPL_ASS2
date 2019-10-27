@@ -1,0 +1,1 @@
+Program([FuncDecl(Id("main"),[VarDecl("argv",ArrayPointerType(IntType()))],VoidType(),Block([Dowhile([Block([BinaryOp("=",Id("i"),BinaryOp("+",Id("i"),IntLiteral(1))),VarDecl("b",ArrayType(9,FloatType())),VarDecl("c",FloatType())])],ArrayCell(Id("argv"),Id("i")))]))])

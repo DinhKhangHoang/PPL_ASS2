@@ -1,0 +1,9 @@
+void main () {
+            int term;
+            for(i;j;k){
+                string b[8];
+            }
+            return;
+        }
+        float minimum, average[2];
+        

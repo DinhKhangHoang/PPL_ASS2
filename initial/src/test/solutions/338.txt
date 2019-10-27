@@ -1,0 +1,1 @@
+Program([FuncDecl(Id("main"),[VarDecl("argv",ArrayPointerType(IntType()))],VoidType(),Block([VarDecl("str",StringType()),If(Id("hihi"),BinaryOp("=",Id("check"),IntLiteral(1))),If(BooleanLiteral(true),Block([BinaryOp("+",Id("c"),Id("d")),If(BooleanLiteral(false),Return())]),If(BooleanLiteral(false),Return(),If(Id("check"),Return())))]))])

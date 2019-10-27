@@ -1,0 +1,1 @@
+Program([FuncDecl(Id("main"),[],VoidType(),Block([Return(CallExpr(Id("putIntLn"),[IntLiteral(4)]))]))])

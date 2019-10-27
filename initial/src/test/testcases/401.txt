@@ -1,0 +1,4 @@
+int main(){
+            k = (9*a*b*c - 2*pow(b,3) - 27*pow(a,2)*d)/ (2*sqrt(abs(pow(delta,3))));
+        }
+        

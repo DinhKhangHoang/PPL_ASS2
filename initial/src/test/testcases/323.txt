@@ -1,0 +1,11 @@
+void main (int argv[]) {
+            for(i =0; i <= 7; i=i+1){
+                int j;
+                {
+                    float k;
+                }
+                {
+                    a+b;
+                }
+            }
+        }

@@ -1,0 +1,6 @@
+void main (int argv[]) {
+            do{
+                i = i + 1;
+                float b[9], c;
+            }while ( argv[i]);
+        }

@@ -1,0 +1,1 @@
+Program([FuncDecl(Id("main"),[VarDecl("argv",ArrayPointerType(IntType()))],VoidType(),Block([Return()])),FuncDecl(Id("isPrime"),[VarDecl("n",FloatType())],BoolType(),Block([Return(BooleanLiteral(false))]))])

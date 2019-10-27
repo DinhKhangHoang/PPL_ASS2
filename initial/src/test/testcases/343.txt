@@ -1,0 +1,9 @@
+void main (int argv[]) {
+            string char;
+            do{
+                i = i + 1;
+            }
+            {
+                j = j + 1;
+            }while(forfun);
+        }

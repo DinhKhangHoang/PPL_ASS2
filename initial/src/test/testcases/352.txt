@@ -1,0 +1,10 @@
+void main () {
+            return;
+            
+        }
+        boolean isPrime(){
+            return false;
+        }
+        string[] concate(){
+            return a+b;
+        }

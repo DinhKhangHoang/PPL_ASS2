@@ -1,0 +1,10 @@
+void main () {
+            return;
+            
+        }
+        boolean isPrime(){
+            return false;
+        }
+        float maximum;
+        float minimum, average[2];
+        

@@ -1,0 +1,11 @@
+void main (int argv[]) {
+            string str;
+            if (true){
+                //boolean variable[100];
+                c+d;
+                if (false)
+                    return;
+            }
+            else if ( false)
+                return;
+        }
